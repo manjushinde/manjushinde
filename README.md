@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @manjusha shinde
-- 👀 I’m interested in seeking for a position as a Data Analyst
+### Hi there 👋 I'm Manjusha Shinde
 
-<!---
-manjushinde/manjushinde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a data enthusiast exploring the world of analytics!  
+🔍 Currently working on projects using **SQL**, **Excel**, and **Power BI**  
+📈 Passionate about turning raw data into real business insights  
+🎯 Aspiring Data Analyst | Always learning, always improving
